@@ -33,3 +33,11 @@ This is a simple Notes application built using React. It allows users to create,
    ```bash
    git clone https://github.com/your-username/notes-app.git
    cd notes-app
+
+
+##ScreenShots
+<img width="1469" alt="Screenshot 2024-08-11 at 18 53 47" src="https://github.com/user-attachments/assets/36f01f0e-4ed3-4e95-9187-b191921b0622">
+<img width="1470" alt="Screenshot 2024-08-11 at 18 54 00" src="https://github.com/user-attachments/assets/cea66c31-34ab-4b5d-9a07-ca26fd1759c2">
+<img width="1467" alt="Screenshot 2024-08-11 at 18 54 36" src="https://github.com/user-attachments/assets/bbad5f21-5586-43cd-bca0-c651c6e22493">
+
+
